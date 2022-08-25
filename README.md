@@ -5,20 +5,13 @@
     <a href="https://www.linkedin.com/in/webert-maximiano/">
       <img alt="LinkedIn Badge" src="https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=fefefe"/>
     </a>
-    <a href="https://stackoverflow.com">
-      <img alt="StackOverflow Badge" src="https://img.shields.io/badge/-StackOverflow-ef8236?&logoColor=fefefe&logo=StackOverflow"/>
-    </a>
-    <a href="https://www.behance.net/">
-      <img alt="Behance Badge" src="https://img.shields.io/badge/-Behance-0056ff?&logoColor=fefefe&logo=behance"/>
-    </a>
     <a href="https://www.instagram.com/webertcoach/">
       <img alt="Instagram Badge" src="https://img.shields.io/badge/-Instagram-8134af?&logoColor=fefefe&logo=instagram"/>
     </a>
-
   </sup>
   </h1>
 <p>
-  Oi, eu sou o MAX — Estou me formando 🎓 Análise de Sistemas pela Estácio - Maricá-RJ, do Brasil.<br/>
+  Oi, eu sou o MAX — Estou me formando 🎓 Análise de Sistemas pela Universidade Veiga de Almeida - Maricá-RJ, do Brasil.<br/>
   Gosto muito de desafios, confira meus certs e projetos nos 📌 repositórios fixados abaixo!
 <p>
 
