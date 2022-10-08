@@ -26,7 +26,8 @@
 ![GIThub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![VUE](https://img.shields.io/badge/-Vue-4fc08d?style=for-the-badge&logo=Vue.js&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-00000f.svg??style=for-the-badge&logo=mysql&logoColor=white)
 ## My Works
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=webertmaximiano&repo=ecommerce&theme=chartreuse-dark)](https://github.com/webertmaximiano/ecommerce)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=webertmaximiano&repo=marketplace_l6&theme=chartreuse-dark)](https://github.com/webertmaximiano/marketplace_l6)
