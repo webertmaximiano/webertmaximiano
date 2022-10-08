@@ -25,6 +25,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![GIThub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![VUE](https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=Vue.js&logoColor=fff)
 ## My Works
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=webertmaximiano&repo=ecommerce&theme=chartreuse-dark)](https://github.com/webertmaximiano/ecommerce)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=webertmaximiano&repo=marketplace_l6&theme=chartreuse-dark)](https://github.com/webertmaximiano/marketplace_l6)
