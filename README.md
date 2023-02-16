@@ -11,7 +11,7 @@
   </sup>
   </h1>
 <p>
-  Oi, eu sou o MAX — Estou me formando 🎓 Análise de Sistemas pela Universidade Veiga de Almeida - Maricá-RJ, do Brasil.<br/>
+  Oi, eu sou o MAX — Me Formei em 2023, em 🎓 Análise de Sistemas pela Universidade Estácio de Sá - Maricá-RJ, do Brasil.<br/>
   Gosto muito de desafios, confira meus certs e projetos nos 📌 repositórios fixados abaixo!
 <p>
 
@@ -28,7 +28,10 @@
 ![VUE](https://img.shields.io/badge/-Vue-4fc08d?style=for-the-badge&logo=Vue.js&logoColor=fff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-00000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Livewire](https://img.shields.io/badge/livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
   
 ## My Works
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=webertmaximiano&repo=ecommerce&theme=chartreuse-dark)](https://github.com/webertmaximiano/ecommerce)
