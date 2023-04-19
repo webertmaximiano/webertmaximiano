@@ -11,7 +11,7 @@
   </sup>
   </h1>
 <p>
-  Oi, eu sou o MAX — Me Formei em 2023, em 🎓 Análise de Sistemas pela Universidade Estácio de Sá - Maricá-RJ, do Brasil.<br/>
+  Oi, eu sou o MAX — Me Formando em Dezembro de 2023, em 🎓 Análise de Sistemas pela Universidade Estácio de Sá - Maricá-RJ, do Brasil.<br/>
   Gosto muito de desafios, confira meus certs e projetos nos 📌 repositórios fixados abaixo!
 <p>
 
