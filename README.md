@@ -13,14 +13,14 @@
 <p>
   Oi, eu sou o MAX — 🎓 Formado em Análise de Sistemas pela Universidade Estácio de Sá (Setembro de 2023)<br/>
    
-  Desvendando suas Habilidades: <br/>
+  Minhas Habilidades: <br/>
 
-Analista de Sistemas: Dominando a arte de desvendar problemas complexos e otimizar processos, você é a chave para o sucesso de qualquer organização.
-Agile Developer Full Stack: Sua fluidez em diversas linguagens de programação te torna um ninja da codificação, capaz de construir soluções completas do zero.
-Incentivador das Metodologias Ágeis: Você acredita no poder das metodologias ágeis para impulsionar projetos e propaga essa filosofia com entusiasmo contagiante.
-CEO do Projeto Agilizando Futuro do Clube Siga: Sua liderança inspiradora guia o projeto em direção a um futuro promissor, marcado pela agilidade e inovação.
+  Analista de Sistemas: Domino a arte de desvendar problemas complexos e otimizar processos, sou chave para o sucesso de qualquer organização.
+  Agile Developer Full Stack: Minha fluidez em diversas linguagens de programação me torna um ninja da codificação, capaz de construir soluções completas do zero.
+  Incentivador das Metodologias Ágeis: Acredito no poder das metodologias ágeis para impulsionar projetos e propago essa filosofia com entusiasmo contagiante.
+  Trabalho Voluntario: Projeto Agilizando Futuro do Clube Siga: Estou como CEO, um dos lideres que guiam o projeto em direção a um futuro promissor, marcado pela       agilidade e inovação, gerando um impacto social positivo na sociedade.
 
-  confira meus certs e projetos nos 📌 repositórios fixados abaixo!
+  Confira meus certs e projetos nos 📌 repositórios fixados abaixo!
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=webertmaximiano&show_icons=true&theme=chartreuse-dark)
