@@ -18,8 +18,7 @@
   Analista de Sistemas: Domino a arte de desvendar problemas complexos e otimizar processos, sou chave para o sucesso de qualquer organização. <br/>
   Agile Developer Full Stack: Minha fluidez em diversas linguagens de programação me torna um ninja da codificação, capaz de construir soluções completas do zero. <br/>
   Incentivador das Metodologias Ágeis: Acredito no poder das metodologias ágeis para impulsionar projetos e propago essa filosofia com entusiasmo contagiante.<br/>
-  Trabalho Voluntario: Projeto Agilizando Futuro do Clube Siga: Estou como CEO, um dos lideres que guiam o projeto em direção a um futuro promissor, marcado pela       agilidade e inovação, gerando um impacto social positivo na sociedade.<br/>
-
+  Trabalho Voluntario: Projeto Agilizando Futuro do Clube Siga: Estou como CEO, um dos lideres que guiam o projeto em direção a um futuro promissor, marcado pela       agilidade e inovação, gerando um impacto social positivo na sociedade.
   Confira meus certs e projetos nos 📌 repositórios fixados abaixo!
 </p>
 
