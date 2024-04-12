@@ -11,9 +11,17 @@
   </sup>
   </h1>
 <p>
-  Oi, eu sou o MAX — Formado em Setembro de 2023, em 🎓 Análise de Sistemas pela Universidade Estácio de Sá - Maricá-RJ, do Brasil.<br/>
-  Gosto muito de desafios, confira meus certs e projetos nos 📌 repositórios fixados abaixo!
-<p>
+  Oi, eu sou o MAX — 🎓 Formado em Análise de Sistemas pela Universidade Estácio de Sá (Setembro de 2023)<br/>
+   
+  Desvendando suas Habilidades: <br/>
+
+Analista de Sistemas: Dominando a arte de desvendar problemas complexos e otimizar processos, você é a chave para o sucesso de qualquer organização.
+Agile Developer Full Stack: Sua fluidez em diversas linguagens de programação te torna um ninja da codificação, capaz de construir soluções completas do zero.
+Incentivador das Metodologias Ágeis: Você acredita no poder das metodologias ágeis para impulsionar projetos e propaga essa filosofia com entusiasmo contagiante.
+CEO do Projeto Agilizando Futuro do Clube Siga: Sua liderança inspiradora guia o projeto em direção a um futuro promissor, marcado pela agilidade e inovação.
+
+  confira meus certs e projetos nos 📌 repositórios fixados abaixo!
+</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=webertmaximiano&show_icons=true&theme=chartreuse-dark)
 ## Skills
