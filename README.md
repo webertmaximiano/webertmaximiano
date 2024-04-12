@@ -45,6 +45,10 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=webertmaximiano&repo=laravel-avancado&theme=chartreuse-dark)](https://github.com/webertmaximiano/laravel-avancado)
 
+ ## My Certs
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=webertmaximiano&repo=certificados&theme=chartreuse-dark)](https://github.com/webertmaximiano/certificados)
+
+
 ## Projetos
 - [EstouOn - Catálogo e Menu Digital](https://estouon.app.br)
 - [PDV Redewe2m - Sistema de Gestão e Frente de Caixa](https://pdv.redewe2m.com.br)
