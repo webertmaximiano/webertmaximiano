@@ -1,60 +1,62 @@
-  <h1 align="center">✨ Webert Maximiano ✨<br/>
-  <sup>
-    <sup>Desenvolvedor Full Stack</sup>
-    <br/>
-    <a href="https://www.linkedin.com/in/webert-maximiano/">
-      <img alt="LinkedIn Badge" src="https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=fefefe"/>
-    </a>
-    <a href="https://www.instagram.com/webertcoach/">
-      <img alt="Instagram Badge" src="https://img.shields.io/badge/-Instagram-8134af?&logoColor=fefefe&logo=instagram"/>
-    </a>
-  </sup>
-  </h1>
-<p>
-  Oi, eu sou o MAX — 🎓 Formado em Análise de Sistemas pela Universidade Estácio de Sá (Setembro de 2023)<br/>
-   
-  Minhas Habilidades: <br/>
-  Analista de Sistemas: Domino a arte de desvendar problemas complexos e otimizar processos, sou chave para o sucesso de qualquer organização. <br/>
-  Agile Developer Full Stack: Minha fluidez em diversas linguagens de programação me torna um ninja da codificação, capaz de construir soluções completas do zero. <br/>
-  Incentivador das Metodologias Ágeis: Acredito no poder das metodologias ágeis para impulsionar projetos e propago essa filosofia com entusiasmo contagiante.<br/>
-  Trabalho Voluntario: Projeto Agilizando Futuro do Clube Siga: Estou como CEO, um dos lideres que guiam o projeto em direção a um futuro promissor, marcado pela       agilidade e inovação, gerando um impacto social positivo na sociedade.<br/>
-  Confira meus certs e projetos nos 📌 repositórios fixados abaixo!
-<p>
+# Olá, eu sou o Webert Maximiano 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=webertmaximiano&show_icons=true&theme=chartreuse-dark)
-## Skills
-![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue-4fc08d?style=for-the-badge&logo=Vue.js&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-00000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Livewire](https://img.shields.io/badge/livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+Como **Líder Técnico e Desenvolvedor Sênior**, sou movido por transformar ideias em soluções digitais robustas e funcionais. Minha missão é guiar o ciclo de vida completo de um produto, o que demonstro na prática como criador e desenvolvedor principal da plataforma **[app.clubesiga.com.br](https://app.clubesiga.com.br/)**.
 
-  
-## My Works
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=webertmaximiano&repo=ecommerce&theme=chartreuse-dark)](https://github.com/webertmaximiano/ecommerce)
+Também sou cofundador do projeto social **[Agilizando o Futuro](https://agilizando.clubesiga.com.br)**, onde atuo como mentor para novos talentos na área de tecnologia.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=webertmaximiano&repo=laravel-avancado&theme=chartreuse-dark)](https://github.com/webertmaximiano/laravel-avancado)
+---
 
- ## My Certs
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=webertmaximiano&repo=certificados&theme=chartreuse-dark)](https://github.com/webertmaximiano/certificados)
+### 📬 Onde me encontrar:
+<a href="https://www.linkedin.com/in/webert-maximiano/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=Linkedin&logoColor=white"/>
+</a>
+<a href="mailto:seu-email-aqui@exemplo.com">
+  <img alt="Email" src="https://img.shields.io/badge/-Email-c14438?&style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://dev.to/webert_maximiano_85d65871">
+  <img alt="dev.to" src="https://img.shields.io/badge/-dev.to-0A0A0A?&style=for-the-badge&logo=dev.to&logoColor=white"/>
+</a>
 
+---
 
-## Projetos
-- [EstouOn - Catálogo e Menu Digital](https://estouon.app.br)
-- [PDV Redewe2m - Sistema de Gestão e Frente de Caixa](https://pdv.redewe2m.com.br)
-- [Clube Siga - Sistema de Gestão de Afiliados](https://app.clubesiga.com.br)
-- [Agilizando o Futuro - Projeto Social ](https://agilizando.clubesiga.com.br)
+### 🚀 Minhas Ferramentas e Tecnologias
 
+<p align="left">
+  <strong>Backend & Main Stack:</strong><br>
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="Livewire" src="https://img.shields.io/badge/livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white"/>
+</p>
+<p align="left">
+  <strong>Frontend:</strong><br>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+<p align="left">
+  <strong>Databases & DevOps:</strong><br>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
-### My Programming languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webertmaximiano&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=webertmaximiano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webertmaximiano&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+---
+
+### 💡 Meus Principais Projetos
+
+-   **[EstouOn](https://estouon.app.br)** - Catálogo e Menu Digital para restaurantes e negócios locais.
+-   **[PDV Redewe2m](https://pdv.redewe2m.com.br)** - Sistema de Gestão e Frente de Caixa (Ponto de Venda).
+-   **[Clube Siga](https://app.clubesiga.com.br)** - Sistema de Gestão de Afiliados e programa de fidelidade.
