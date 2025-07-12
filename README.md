@@ -10,7 +10,7 @@ Também sou cofundador do projeto social **[Agilizando o Futuro](https://agiliza
 <a href="https://www.linkedin.com/in/webert-maximiano/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
-<a href="mailto:seu-email-aqui@exemplo.com">
+<a href="mailto:webertcoach@gmail.com">
   <img alt="Email" src="https://img.shields.io/badge/-Email-c14438?&style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://dev.to/webert_maximiano_85d65871">
