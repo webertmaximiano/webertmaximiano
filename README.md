@@ -1,6 +1,6 @@
 # Olá, eu sou o Webert Maximiano 👋
 
-Como **Líder Técnico e Desenvolvedor Sênior**, sou movido por transformar ideias em soluções digitais robustas e funcionais. Minha missão é guiar o ciclo de vida completo de um produto, o que demonstro na prática como criador e desenvolvedor principal da plataforma **[app.clubesiga.com.br](https://app.clubesiga.com.br/)**.
+Como **Líder Técnico e Desenvolvedor FullStack**, sou movido por transformar ideias em soluções digitais robustas e funcionais. Minha missão é guiar o ciclo de vida completo de um produto, o que demonstro na prática como criador e desenvolvedor principal da plataforma **[app.clubesiga.com.br](https://app.clubesiga.com.br/)**.
 
 Também sou cofundador do projeto social **[Agilizando o Futuro](https://agilizando.clubesiga.com.br)**, onde atuo como mentor para novos talentos na área de tecnologia.
 
