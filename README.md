@@ -59,6 +59,7 @@ Também sou cofundador do projeto social **[Agilizando o Futuro](https://agiliza
 
 ### 💡 Meus Principais Projetos
 
--   **[EstouOn](https://estouon.app.br)** - Catálogo e Menu Digital para restaurantes e negócios locais.
--   **[PDV Redewe2m](https://pdv.redewe2m.com.br)** - Sistema de Gestão e Frente de Caixa (Ponto de Venda).
--   **[Clube Siga](https://app.clubesiga.com.br)** - Sistema de Gestão de Afiliados e programa de fidelidade.
+-   **[Agilizando o Futuro](https://agilizando.clubesiga.com.br)** - Projeto Social com foco em ensinar programação e gerar experiência (by participants).
+-   **[EstouOn](https://estouon.app.br)** - Catálogo e Menu Digital para varejos, restaurantes e negócios locais. (Sendo Refatorado)
+-   **[PDV Redewe2m](https://pdv.redewe2m.com.br)** - Sistema de Gestão e Frente de Caixa (Ponto de Venda) - (fora do ar temporariamente em Refatoração).
+-   **[App Clube Siga](https://app.clubesiga.com.br)** - Sistema de Gestão de Afiliados e programa de fidelidade. (em Teste)
